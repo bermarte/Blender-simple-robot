@@ -1,6 +1,6 @@
 # Name of project
 
-Express essentials
+Blender simple robot
 
 ## Table of contents
 
