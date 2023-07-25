@@ -40,7 +40,7 @@ Project is: _done_
 
 ## Inspiration
 
-Project by Linkedin
+Project by Youtube
 
 ## Contact
 
