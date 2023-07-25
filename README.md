@@ -40,7 +40,7 @@ Project is: _done_
 
 ## Inspiration
 
-Project by Youtube
+Project by NexTut Tutorial (Alejandro Aguilar)
 
 ## Contact
 
